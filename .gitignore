@@ -1,0 +1,14 @@
+#	Don't check in SSH keys!
+*.pem
+
+#	Various directories
+config/
+db/
+drop/
+file_base/
+logs/
+mail/
+node_modules/
+docs/_site/
+docs/.sass-cache/
+.vscode/
